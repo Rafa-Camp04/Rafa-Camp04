@@ -24,6 +24,7 @@ Languages and Tools
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30">
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30">
     <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
+    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30">
 </div>
 
 <!--
